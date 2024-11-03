@@ -1,0 +1,16 @@
+conquered - জয়ী
+delve - গভীরভাবে অনুসন্ধান করা
+manipulation - দক্ষতাসহকারে ব্যবহার
+robust and flexible - শক্তিশালী এবং নমনীয় 
+Type assertion - টাইপ দাবী
+Constraints - সীমাবদ্ধতা
+Utility - কার্যকারিতা
+conquering - বিজয়ী
+
+###2-1: Type assertion / type narrowing:
+	1. akane type ki hobe seta programmer fixed korbe as use kore.
+	2.const result1 = kgToGram(5) as number; akane function t te 5 jabe number hisebe ata ami sure so ...as number use kora hoyeche.
+
+###2-2: Interface, type vs interface:
+
+ 
