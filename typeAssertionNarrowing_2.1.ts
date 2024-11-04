@@ -6,7 +6,7 @@
     */
   let anything: any;
   anything = "i love typescript";
-  //    (anything as string)
+  //    (anything as string).
 
   anything = 444;
   // (anything as number).toFixed
@@ -26,6 +26,8 @@
   const result1 = kgToGram(5) as number;
   const result2 = kgToGram("5") as string;
 //   const result1 = kgToGram(5) as number;
+console.log(result1)
+console.log(result2)
 
 
 type CustomErr = {

@@ -12,5 +12,8 @@ conquering - বিজয়ী
 	2.const result1 = kgToGram(5) as number; akane function t te 5 jabe number hisebe ata ami sure so ...as number use kora hoyeche.
 
 ###2-2: Interface, type vs interface:
+	1.
 
- 
+
+###2-3: Introduction to generics :
+	1.
