@@ -17,3 +17,6 @@ conquering - বিজয়ী
 
 ###2-3: Introduction to generics :
 	1.
+
+###2-4: Generic with Interface:
+	1.
